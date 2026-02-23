@@ -1,5 +1,5 @@
 import AppRoutes from "./routes/AppRoutes";
-import Footer from "./components/common/Footer";
+import Footer from "./components/common/Footer.jsx";
 
 function App() {
   return (
